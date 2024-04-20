@@ -1,3 +1,4 @@
+# This is a Docker file
 FROM centos:7
 MAINTAINER abc@gmail.com
 RUN yum install -y httpd \
